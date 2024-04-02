@@ -13,7 +13,6 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
-##
 <!-- <div style="width: 200px;">
 <a href="https://github.com/SeuPerfilAqui/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpafer&langs_count=8" alt="Top Langs" />
